@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240" role="img" aria-label="CrystalFlakCoin logo">
+  <defs>
+    <linearGradient id="cfc-primary" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b1d6b"/>
+      <stop offset="40%" stop-color="#7c3aed"/>
+      <stop offset="70%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#d946ef"/>
+    </linearGradient>
+    <linearGradient id="cfc-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity=".5"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- Crystal silhouette: octahedral with horizontal split, mimicking the CrystalFlakCoin logo -->
+  <polygon points="100,8 184,86 156,200 100,232 44,200 16,86" fill="url(#cfc-primary)" stroke="#ffffff" stroke-opacity=".35" stroke-width="1.5"/>
+  <!-- Top faces highlight -->
+  <polygon points="100,8 184,86 100,108 16,86" fill="#ffffff" fill-opacity=".18"/>
+  <polygon points="100,8 100,108 16,86" fill="#ffffff" fill-opacity=".06"/>
+  <!-- Bottom faces shadow -->
+  <polygon points="100,232 156,200 100,108 44,200" fill="#000000" fill-opacity=".18"/>
+  <!-- Horizontal seam -->
+  <polygon points="100,108 156,200 44,200" fill="none" stroke="#ffffff" stroke-opacity=".3" stroke-width="1"/>
+  <!-- Light streak -->
+  <path d="M20 86 L100 108 L180 86" fill="none" stroke="#bbf7d0" stroke-opacity=".4" stroke-width=".6"/>
+  <!-- Inner energy core -->
+  <circle cx="100" cy="120" r="3" fill="#fce7f3" opacity=".85"/>
+</svg>

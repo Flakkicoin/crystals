@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="cfc-icon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#d946ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#0d0530"/>
+  <polygon points="32,8 56,28 48,56 32,62 16,56 8,28" fill="url(#cfc-icon)"/>
+  <polygon points="32,8 56,28 32,34 8,28" fill="#ffffff" fill-opacity=".25"/>
+</svg>

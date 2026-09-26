@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240" role="img" aria-label="CrystalFlakCoin monochrome logo for dark backgrounds">
+  <polygon points="100,8 184,86 156,200 100,232 44,200 16,86" fill="#f0f9ff" stroke="#7dd3fc" stroke-width="1.5"/>
+  <polygon points="100,8 184,86 100,108 16,86" fill="#7dd3fc" fill-opacity=".25"/>
+  <polygon points="100,232 156,200 100,108 44,200" fill="#7dd3fc" fill-opacity=".15"/>
+  <line x1="100" y1="8" x2="100" y2="232" stroke="#7dd3fc" stroke-opacity=".5" stroke-width=".6"/>
+</svg>

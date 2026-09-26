@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" role="img" aria-label="CrystalFlakCoin logo with wordmark">
+  <defs>
+    <linearGradient id="cfc-wordmark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#d946ef"/>
+    </linearGradient>
+  </defs>
+  <!-- Mark -->
+  <g transform="translate(20,0)">
+    <polygon points="100,8 184,86 156,200 100,232 44,200 16,86" fill="url(#cfc-wordmark)" stroke="#ffffff" stroke-opacity=".4" stroke-width="1.5"/>
+    <polygon points="100,8 184,86 100,108 16,86" fill="#ffffff" fill-opacity=".18"/>
+    <polygon points="100,232 156,200 100,108 44,200" fill="#000000" fill-opacity=".18"/>
+  </g>
+  <!-- Wordmark -->
+  <g transform="translate(220,90)" font-family="Orbitron, system-ui, sans-serif">
+    <text font-size="36" font-weight="800" fill="#ffffff">CrystalFlakCoin</text>
+    <text y="36" font-size="14" font-weight="600" letter-spacing="3" fill="#a855f7">CFC · DIGITAL ASSET</text>
+  </g>
+</svg>
